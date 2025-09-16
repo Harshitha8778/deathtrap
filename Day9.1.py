@@ -1,4 +1,4 @@
-#GRADE CONVERTER
+#SCORE TO GRADE CONVERTER
 student_scores = {
     'Harry': 88,
     'Ron': 78,
